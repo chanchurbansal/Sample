@@ -6,6 +6,7 @@ const long long MOD=1e9+7;
 
 int main()
 {
+	//My Template
 	fastio
 	fileio
 	
