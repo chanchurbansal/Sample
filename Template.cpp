@@ -8,6 +8,7 @@ int main()
 {
 	//My Template
 	//Another comment
+	//Version 2
 	fastio
 	fileio
 	
